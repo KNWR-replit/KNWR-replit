@@ -1,1 +1,1 @@
-owned & operated by @KNWR
+owned & operated by [@KNWR](http://github.com/knwr)
